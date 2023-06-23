@@ -3,3 +3,4 @@
 - 🌱 Atualmente estou aprendendo HTML, CSS, JS, REACT JS.
 - 📫 Para entrar em contato comigo, segue o link abaixo:
 - https://www.instagram.com/douglaskyousuke/
+- https://www.linkedin.com/in/douglas-mamede-46b382202/
