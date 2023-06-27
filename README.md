@@ -1,6 +1,6 @@
 - 👋 Olá, meu nome é Douglas Mamede Martins.
 - 👀 Estou interessado em front end.
-- 🌱 Atualmente estou aprendendo HTML, CSS, JS, REACT JS.
+- 🌱 Atualmente estou aprendendo HTML, CSS, JS, REACT JS, STYLED-COMPONENTS, TAILWINDCSS.
 - 📫 Para entrar em contato comigo, segue o link abaixo:
 - https://www.instagram.com/douglaskyousuke/
 - https://www.linkedin.com/in/douglas-mamede-46b382202/
