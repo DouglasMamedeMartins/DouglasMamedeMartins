@@ -1,6 +1,23 @@
-- 👋 Olá, meu nome é Douglas Mamede Martins.
-- 👀 Estou interessado em front end.
-- 🌱 Atualmente estou aprendendo HTML, CSS, JS, REACT JS, STYLED-COMPONENTS, TAILWINDCSS.
+## Olá Meu nome é Douglas Mamede.
+
+<div>
+  <a href="https://github.com/DouglasMamedeMartins/">
+[![douglasmamedemartins GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasmamedemartins&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)](https://github.com/douglasmamedemartins/github-readme-stats)    
+</div>
+
+<div style="display: inline_block"><br>                    
+  
+ <img  align="center" alt="douglas-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+ <img  align="center" alt="douglas-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+ <img  align="center" alt="douglas-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ <img  align="center" alt="douglas-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+ <img  align="center" alt="douglas-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+ <img  align="center" alt="douglas-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+ 
+          
+</div>
+- 👀 Estou interessado em front-end, back-end.
+- 🌱 Atualmente estou aprendendo HTML, CSS, JS, REACT JS, STYLED-COMPONENTS, TAILWINDCSS, JAVA, SPRING BOOT.
 - 📫 Para entrar em contato comigo, segue o link abaixo:
 - https://www.instagram.com/douglaskyousuke/
 - https://www.linkedin.com/in/douglas-mamede-46b382202/
