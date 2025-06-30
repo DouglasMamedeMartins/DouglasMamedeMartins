@@ -7,8 +7,8 @@
 </div>
 
 
-- 👀 Estou interessado em front-end, back-end.
-- 🌱 Atualmente estou aprendendo HTML, CSS, JS, REACT JS, STYLED-COMPONENTS, TAILWINDCSS, JAVA, SPRING BOOT.
+- 👀 Estou interessado em back-end.
+- 🌱 Atualmente estou aprendendo JAVA, SPRING BOOT.
 - 📫 Para entrar em contato comigo, segue o link abaixo:
 - https://www.instagram.com/douglaskyousuke/
 - https://www.linkedin.com/in/douglas-mamede-46b382202/
